@@ -3,8 +3,8 @@ Table of Contents
 
 **[Overview](#overview)**  
 **[The Best Example](#the-best-example)**  
-**[Recruiting Others](#recruiting-others)**
-**[Task By Task](#task-by-task)**
+**[Recruiting Others](#recruiting-others)**  
+**[Task By Task](#task-by-task)**  
 
 ## Overview
 
@@ -1037,46 +1037,69 @@ The number of proceedings needed will be an estimate based on previous attendanc
 
 An alternative to using a publisher is to self-publish. To do this you need to buy an ISBN. [Reputable organizations](http://www.educationaldatamining.org/EDM2013/proceedings/EDM2013Proceedings.pdf) are self-publishing proceedings. It saves a ton of money and makes it easy to distribute (people can download off the website instead of having to use a $40 usb key the publisher sold you).
 
+### Call for papers
 
-### Early
+This should follow the format of previous conferences. In it you can express the themes of your conference. The example below doesn't include submission instructions, but ideally the CFP will include instructions for authors and submission instructions.
 
-Early on, people need to do necessary planning to attend your conference. To book travel, hotel, get visas, etc, they need to know when/where it is. You also want to consider making your conference attractive.
+```
+The 16th International Conference on Artificial Intelligence in Education (AIED2013) is the next in a longstanding series of biennial international conferences for high quality research in intelligent systems and cognitive science for educational computing applications. The conference provides opportunities for the cross-fertilization of approaches, techniques and ideas from the many fields that comprise AIED, including computer science, cognitive and learning sciences, education, game design, psychology, sociology, linguistics, as well as many domain-specific areas. Since the first AIED meeting 30 years ago, both the breadth of the research and the reach of the technologies have expanded in dramatic ways. The theme of AIED2013 therefore seeks to capture this evolution: From education to lifelong learning: constructing pervasive and enduring environments for learning. In line with this theme of expansion, AIED2013 will welcome the Industry & Innovation Track which seeks to capture the challenges, solutions, and results from the transition of AIED technologies into the commercial sector.
 
-Behind the scenes, you need to make sure you have assets like the conference location in place. If you don't book them, they may not be available for your conference dates. To book, you'll need to put down deposits. This means that you need to have some money up front, some way of spending funds (like a bank account), and the beginnings of a budget.
+We invite academic and industry submissions to AIED 2013, which will be held July 9-13 in Memphis, TN, USA.
 
-To book anything you'll need an approximate head count. The best way to get that is to ask the previous conference organizers. Sometimes the previous proceedings will have a forward that lists the submissions and accepted papers. The number of attendees will be greater than the number of accepted papers.
 
-#### Things for the site
+TOPICS
 
-* Location of the conference, booked (i.e. the actual building)
-* Dates of the conference (distinguish workshop days from main conference; give date of banquet)
-* How to get to the conference (airports, taxi, public transportation, etc)
-* Where to stay/sleep at night (easy if the conference is in a hotel, you may want to book/reserve rooms)
-* Where to eat (what food will the conference provide? Off site food? Consider special diets like vegetarian)
-* Things to do besides the conference (some people will add a day on either side of the conference for this)
-* How to request a visa letter
-* Custom logo that will appear on site and elsewhere
+    Modelling and Representation: Models of learners, facilitators, tasks and problem-solving processes; Models of groups and communities for learning; Modelling motivation, metacognition, and affective aspects of learning; Ontological modelling; Handling uncertainty and multiple perspectives; Representing and analysing discourse during learning
 
-#### Behind the scenes
+    Models of Teaching and Learning: Intelligent tutoring and scaffolding; Motivational diagnosis and feedback; Interactive pedagogical agents and learning companions; Agents that promote metacognition, motivation and affect; Adaptive question-answering
 
-* Recruit sponsors
-* Create a working budget
-* Determine how to spend/receive funds (may need a "float" loan from professional society)
-* Book the banquet location
-* Book the hotels if applicable
-* Book the conference location
-* Invite keynote speakers, put them on the website as soon as you can
-* Recruit Program Committee and any needed Conference Executive Committee
-* Have agreement with publisher if applicable on conference proceedings
-  
-  
-### Middle
+    Intelligent Technologies: Natural language processing; Data mining and machine learning; Knowledge representation and reasoning; Semantic web technologies and standards; Simulation-based learning; Multi-agent architectures
 
-It's easy to get complacent once you have a site. However, you should not lose track of the important fact **most people need to be reminded to look at it**, so if it changes in a major you need to send an annoucement by email.
+    Learning Contexts and Informal Learning: Educational games; Collaborative and group learning; Social networks; Inquiry learning; Social dimensions of learning; Communities of practice; Ubiquitous learning environments; Learning grid; Lifelong, museum, out-of-school, and workplace learning
 
-The major additions at this stage are the submission/reviewing process and registration. You would be amazed how early some people submit and register. You want people to register as early as possible because you will need head counts for food and other items. So encoraging people to register early is a good idea (early/late/onsite rates can help).
+    Innovative and Commercial Applications: Domain-specific learning applications (e.g. language, mathematics, science, medicine, military, industry); Scaling up and large-scale deployment of AIED systems;
 
-#### Things for the site
+    Evaluation: Human-computer interaction; Evaluation methodologies; Studies on human learning, cognition, affect, motivation, and attitudes; Design and formative studies of AIED systems
+
+SUBMISSION CATEGORIES
+
+    Full papers (10 pages) - All submissions should describe original and unpublished work.
+    Posters (4 pages) - Reports on work-in-progress including, where possible, preliminary results.
+    Doctoral consortium (4 pages) - The DC is for work-in progress by students and other young/new researchers.
+    Industry & Innovation short papers (4 pages) – For late-breaking developments, experience reports, and other updates from the commercial AIED sector.
+    Interactive events (1-2 pages) - To showcase interactive demonstrations of AIED systems.
+    Workshop proposals (2-4 pages) - Proposals for workshops on "hot" topics in AIED.
+    Tutorial proposals (2-4 pages) - Proposals for tutorials on important AIED topics.
+
+Industry papers can be submitted as full paper or poster submissions. Please refer to the conference website for format and full details for submissions.
+
+
+SUBMISSION DATES
+
+    Full Papers, Posters: 28 Jan 2013
+    Interactive Events: 4 Feb 2013
+    Workshop & Tutorial Proposals: 4 Feb 2013
+    Doctoral Consortium papers: 18 Feb 2013
+    Industry & Innovation Track: 28 Jan 2013 (full), 15 March 2013 (late-breaking reports)
+
+
+CONFERENCE ORGANISATION
+
+    Conference Chair: Jack Mostow
+    Programme Chairs: H. Chad Lane & Kalina Yacef
+    Poster Chairs: Jihie Kim & Bruce McLaren
+    Doctoral Consortium Chairs: Cristina Conati & Sidney D’Mello
+    Interactive Events Chairs: Vania Dimitrova & Fazel Keshtkar
+    Panel Chairs: Mike Sharples & Julita Vassileva
+    Tutorial & Workshop Chairs: Chee Kit Looi & Erin Walker
+    Industry & Innovation: Lewis Johnson & Ari Bader-Natal
+    Awards Chairs : Ryan Baker & Rose Luckin
+    Sponsorship Chair: John Stamper
+    Organisation Chair: Art Graesser
+    Local Arrangements Chair: Andrew Olney & Phil Pavlik
+```
+
+# TODO: stopped here
 
 * Call for papers (must also email!)
 * Instructions for authors/templates
