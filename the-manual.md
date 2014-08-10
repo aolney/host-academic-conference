@@ -225,6 +225,7 @@ Sponsors can help out a lot with the banquet and keynotes. Commonly the Sponsors
 
 Here is an example document that could be sent to sponsors to communicate sponsorship options:
 
+```
 AIED 2013 Sponsorship Opportunities
 The 16th International Conference on Artificial Intelligence in Education (AIED2013) follows a
 longstanding series of biennial international conferences for high quality research in intelligent systems
@@ -246,7 +247,7 @@ potential graduate students, post doctoral students and others seeking corporate
 To reserve your sponsorship AIED 2013 or for any questions, email or call John Stamper
 (xxx@xxxx.org 1-412-268-9690) with the level and event that you would like to sponsor.
 
-**Platinum Level** - $20,000 Supports your choice of available events. One of a Doctoral Consortium,
+Platinum Level - $20,000 Supports your choice of available events. One of a Doctoral Consortium,
 Banquet Dinner, or Opening Reception. Includes:
 • Opportunity to address conference audience during conference opening
 • Access to special recruiting event
@@ -256,7 +257,7 @@ Banquet Dinner, or Opening Reception. Includes:
 • Recognition in program and proceedings
 • Up to 4 complimentary conference registrations
 
-**Gold Level** - $10,000 Supports your choice of available events. One of a Keynote Address or Lunch
+Gold Level - $10,000 Supports your choice of available events. One of a Keynote Address or Lunch
 Includes:
 • Access to special recruiting event
 • Table at Poster Session
@@ -265,7 +266,7 @@ Includes:
 • Recognition in program and proceedings
 • Up to 3 complimentary conference registrations
 
-**Silver Level** - $5,000 Supports your choice of Breakfast or Snack Break
+Silver Level - $5,000 Supports your choice of Breakfast or Snack Break
 Includes:
 • Access to special recruiting event
 • Opportunity to include media in registration materials
@@ -273,10 +274,716 @@ Includes:
 • Recognition in program and proceedings
 • 2 complimentary conference registration
 
-**Bronze Level** - $2,500 Includes:
+Bronze Level - $2,500 Includes:
 • Opportunity to include media in registration
+```
 
-#### Behind the scenes
+### Working budget
+
+Your budget will be an evolving document, but you can create a reasonable sketch up front. The trick is to divide your costs into **per customer** and **per block** costs. Per block costs can also be thought of as "fixed" costs, but in reality the costs are only "fixed" up to some limit. For example, your location may charge a "fixed" cost for a certain number of meeting rooms, but you can only put 400 people in those rooms.
+
+I've put the AIED2013 budget here TODO with formulas, etc. It is inline below for the sake of discussion.
+
+<table cellspacing="0" border="0">
+	<colgroup width="127"></colgroup>
+	<colgroup width="86"></colgroup>
+	<colgroup width="80"></colgroup>
+	<colgroup width="103"></colgroup>
+	<colgroup span="5" width="127"></colgroup>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="17" align="left" valign=bottom><b><font color="#000000">HEADCOUNT</font></b></td>
+		<td style="border-left: 1px solid #000000" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000" height="17" align="left" valign=bottom><font color="#000000">Main Attendees</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="250" sdnum="1033;"><font color="#000000">250</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom bgcolor="#FFD966"><font color="#000000">estimated</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Workshop Attendees</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="150" sdnum="1033;"><font color="#000000">150</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Banquet Attendees</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="260" sdnum="1033;"><font color="#000000">260</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Comp Attendess (volunteers and invited speakers)</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="30" sdnum="1033;"><font color="#000000">30</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: 1px solid #000000" height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="17" align="left" valign=bottom><b><font color="#000000">FIXED COSTS</font></b></td>
+		<td style="border-left: 1px solid #000000" align="left" valign=bottom><font color="#000000">unit cost</font></td>
+		<td align="left" valign=bottom><font color="#000000">units</font></td>
+		<td align="left" valign=bottom><font color="#000000">total</font></td>
+		<td align="left" valign=bottom><font color="#000000">Note</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td style="border-left: 1px solid #000000; border-right: 1px solid #000000" height="17" align="left" valign=bottom><font color="#000000">Consultancy fee</font></td>
+		<td style="border-left: 1px solid #000000" align="right" valign=bottom sdval="45" sdnum="1033;"><font color="#000000">45</font></td>
+		<td align="right" valign=bottom sdval="10" sdnum="1033;"><font color="#000000">10</font></td>
+		<td align="right" valign=bottom sdval="450" sdnum="1033;"><font color="#000000">450</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="17" align="left" valign=bottom><font color="#000000">AV fees</font></td>
+		<td style="border-left: 1px solid #000000" align="right" valign=bottom sdval="1215" sdnum="1033;"><font color="#000000">1215</font></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><font color="#000000">1</font></td>
+		<td align="right" valign=bottom sdval="1215" sdnum="1033;"><font color="#000000">1215</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000" height="17" align="left" valign=bottom><font color="#000000">Workshop space (3 rooms)</font></td>
+		<td align="right" valign=bottom sdval="1040" sdnum="1033;"><font color="#000000">1040</font></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><font color="#000000">2</font></td>
+		<td align="right" valign=bottom sdval="2080" sdnum="1033;"><font color="#000000">2080</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Conference space (Zone + 3 rooms)</font></td>
+		<td align="right" valign=bottom sdval="3640" sdnum="1033;"><font color="#000000">3640</font></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><font color="#000000">3</font></td>
+		<td align="right" valign=bottom sdval="10920" sdnum="1033;"><font color="#000000">10920</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Reception (225 attend)</font></td>
+		<td align="right" valign=bottom sdval="1800" sdnum="1033;"><font color="#000000">1800</font></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><font color="#000000">1</font></td>
+		<td align="right" valign=bottom sdval="1800" sdnum="1033;"><font color="#000000">1800</font></td>
+		<td align="left" valign=bottom><font color="#000000">1800 is min cost</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Keynote Honorarium</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="1000" sdnum="1033;"><font color="#000000">1000</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="3" sdnum="1033;"><font color="#000000">3</font></td>
+		<td align="right" valign=bottom sdval="3000" sdnum="1033;"><font color="#000000">3000</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Keynote Hotel</font></td>
+		<td align="right" valign=bottom sdval="129" sdnum="1033;"><font color="#000000">129</font></td>
+		<td align="right" valign=bottom sdval="9" sdnum="1033;"><font color="#000000">9</font></td>
+		<td align="right" valign=bottom sdval="1161" sdnum="1033;"><font color="#000000">1161</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Keynote Travel</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="1500" sdnum="1033;"><font color="#000000">1500</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="3" sdnum="1033;"><font color="#000000">3</font></td>
+		<td align="right" valign=bottom sdval="4500" sdnum="1033;"><font color="#000000">4500</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Banquet rental</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="12500" sdnum="1033;"><font color="#000000">12500</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="1" sdnum="1033;"><font color="#000000">1</font></td>
+		<td align="right" valign=bottom sdval="12500" sdnum="1033;"><font color="#000000">12500</font></td>
+		<td align="left" valign=bottom><font color="#000000">facility, tables, bartender, etc</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Awards</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="1000" sdnum="1033;"><font color="#000000">1000</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="1" sdnum="1033;"><font color="#000000">1</font></td>
+		<td align="right" valign=bottom sdval="1000" sdnum="1033;"><font color="#000000">1000</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Volunteer Tshirts</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="15" sdnum="1033;"><font color="#000000">15</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="15" sdnum="1033;"><font color="#000000">15</font></td>
+		<td align="right" valign=bottom sdval="225" sdnum="1033;"><font color="#000000">225</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Poster boards</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="30" sdnum="1033;"><font color="#000000">30</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="35" sdnum="1033;"><font color="#000000">35</font></td>
+		<td align="right" valign=bottom sdval="1050" sdnum="1033;"><font color="#000000">1050</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000">Per attendee costs for given attendance scenarios</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Poster easels</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="30" sdnum="1033;"><font color="#000000">30</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="35" sdnum="1033;"><font color="#000000">35</font></td>
+		<td align="right" valign=bottom sdval="1050" sdnum="1033;"><font color="#000000">1050</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="right" valign=bottom sdval="100" sdnum="1033;"><b><font color="#000000">100</font></b></td>
+		<td align="right" valign=bottom sdval="150" sdnum="1033;"><b><font color="#000000">150</font></b></td>
+		<td align="right" valign=bottom sdval="200" sdnum="1033;"><b><font color="#000000">200</font></b></td>
+		<td align="right" valign=bottom sdval="250" sdnum="1033;"><b><font color="#000000">250</font></b></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><b><font color="#000000">TOTAL MAIN</font></b></td>
+		<td align="right" valign=bottom sdval="38871" sdnum="1033;"><font color="#000000">38871</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="right" valign=bottom sdval="388.71" sdnum="1033;"><font color="#000000">388.71</font></td>
+		<td align="right" valign=bottom sdval="259.14" sdnum="1033;"><font color="#000000">259.14</font></td>
+		<td align="right" valign=bottom sdval="194.355" sdnum="1033;"><font color="#000000">194.355</font></td>
+		<td align="right" valign=bottom sdval="155.484" sdnum="1033;"><font color="#000000">155.484</font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><b><font color="#000000">TOTAL WORKSHOP</font></b></td>
+		<td align="right" valign=bottom sdval="2080" sdnum="1033;"><font color="#000000">2080</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="right" valign=bottom sdval="20.8" sdnum="1033;"><font color="#000000">20.8</font></td>
+		<td align="right" valign=bottom sdval="13.8666666666667" sdnum="1033;"><font color="#000000">13.8666666667</font></td>
+		<td align="right" valign=bottom sdval="10.4" sdnum="1033;"><font color="#000000">10.4</font></td>
+		<td align="right" valign=bottom sdval="8.32" sdnum="1033;"><font color="#000000">8.32</font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><b><font color="#000000">TOTAL BANQUET</font></b></td>
+		<td align="right" valign=bottom sdval="12500" sdnum="1033;"><font color="#000000">12500</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="right" valign=bottom sdval="125" sdnum="1033;"><font color="#000000">125</font></td>
+		<td align="right" valign=bottom sdval="83.3333333333333" sdnum="1033;"><font color="#000000">83.3333333333</font></td>
+		<td align="right" valign=bottom sdval="62.5" sdnum="1033;"><font color="#000000">62.5</font></td>
+		<td align="right" valign=bottom sdval="50" sdnum="1033;"><font color="#000000">50</font></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: 1px solid #000000" height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="17" align="left" valign=bottom><b><font color="#000000">VARIABLE COSTS</font></b></td>
+		<td style="border-left: 1px solid #000000" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td style="border-left: 1px solid #000000; border-right: 1px solid #000000" height="17" align="left" valign=bottom><font color="#000000">Registration fees Conf</font></td>
+		<td style="border-left: 1px solid #000000" align="right" valign=bottom sdval="15" sdnum="1033;"><font color="#000000">15</font></td>
+		<td align="right" valign=bottom sdval="250" sdnum="1033;"><font color="#000000">250</font></td>
+		<td align="right" valign=bottom sdval="3750" sdnum="1033;"><font color="#000000">3750</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td style="border-left: 1px solid #000000; border-right: 1px solid #000000" height="17" align="left" valign=bottom><font color="#000000">Registration fees workshop only</font></td>
+		<td style="border-left: 1px solid #000000" align="right" valign=bottom sdval="15" sdnum="1033;"><font color="#000000">15</font></td>
+		<td align="right" valign=bottom sdval="50" sdnum="1033;"><font color="#000000">50</font></td>
+		<td align="right" valign=bottom sdval="750" sdnum="1033;"><font color="#000000">750</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Main Food</font></td>
+		<td align="right" valign=bottom sdval="135" sdnum="1033;"><font color="#000000">135</font></td>
+		<td align="right" valign=bottom sdval="280" sdnum="1033;"><font color="#000000">280</font></td>
+		<td align="right" valign=bottom sdval="37800" sdnum="1033;"><font color="#000000">37800</font></td>
+		<td align="left" valign=bottom><font color="#000000">45/day for 3 days</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Workshop Food</font></td>
+		<td align="right" valign=bottom sdval="90" sdnum="1033;"><font color="#000000">90</font></td>
+		<td align="right" valign=bottom sdval="180" sdnum="1033;"><font color="#000000">180</font></td>
+		<td align="right" valign=bottom sdval="16200" sdnum="1033;"><font color="#000000">16200</font></td>
+		<td align="left" valign=bottom><font color="#000000">45/day for 2 days</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Banquet Food</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="55" sdnum="1033;"><font color="#000000">55</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="280" sdnum="1033;"><font color="#000000">280</font></td>
+		<td align="right" valign=bottom sdval="15400" sdnum="1033;"><font color="#000000">15400</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Banquet transportation</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="600" sdnum="1033;"><font color="#000000">600</font></td>
+		<td align="right" valign=bottom bgcolor="#FFD966" sdval="10" sdnum="1033;"><font color="#000000">10</font></td>
+		<td align="right" valign=bottom sdval="6000" sdnum="1033;"><font color="#000000">6000</font></td>
+		<td align="left" valign=bottom><font color="#000000">assume each bus seats 30</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Nightly transportation</font></td>
+		<td align="right" valign=bottom bgcolor="#FFFF00" sdval="520" sdnum="1033;"><font color="#000000">520</font></td>
+		<td align="right" valign=bottom bgcolor="#FFFF00" sdval="3" sdnum="1033;"><font color="#000000">3</font></td>
+		<td align="right" valign=bottom sdval="1560" sdnum="1033;"><font color="#000000">1560</font></td>
+		<td align="left" valign=bottom><font color="#000000">to restaurants, etc</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Printing program</font></td>
+		<td align="right" valign=bottom sdval="350" sdnum="1033;"><font color="#000000">350</font></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><font color="#000000">1</font></td>
+		<td align="right" valign=bottom sdval="350" sdnum="1033;"><font color="#000000">350</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Nightly transportation workshops</font></td>
+		<td align="right" valign=bottom bgcolor="#FFFF00" sdval="260" sdnum="1033;"><font color="#000000">260</font></td>
+		<td align="right" valign=bottom bgcolor="#FFFF00" sdval="2" sdnum="1033;"><font color="#000000">2</font></td>
+		<td align="right" valign=bottom sdval="520" sdnum="1033;"><font color="#000000">520</font></td>
+		<td align="left" valign=bottom><font color="#000000">to restaurants, etc</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Printing proceedings</font></td>
+		<td align="right" valign=bottom bgcolor="#FFFF00" sdval="0" sdnum="1033;"><font color="#000000">0</font></td>
+		<td align="right" valign=bottom bgcolor="#FFFF00" sdval="50" sdnum="1033;"><font color="#000000">50</font></td>
+		<td align="right" valign=bottom sdval="0" sdnum="1033;"><font color="#000000">0</font></td>
+		<td align="left" valign=bottom><font color="#000000">Springer (50 are complementary)</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">USB proceedings</font></td>
+		<td align="right" valign=bottom sdval="35" sdnum="1033;"><font color="#000000">35</font></td>
+		<td align="right" valign=bottom sdval="280" sdnum="1033;"><font color="#000000">280</font></td>
+		<td align="right" valign=bottom sdval="9800" sdnum="1033;"><font color="#000000">9800</font></td>
+		<td align="left" valign=bottom><font color="#000000">Springer</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Misc shwag</font></td>
+		<td align="right" valign=bottom sdval="17.1" sdnum="1033;"><font color="#000000">17.1</font></td>
+		<td align="right" valign=bottom sdval="280" sdnum="1033;"><font color="#000000">280</font></td>
+		<td align="right" valign=bottom sdval="4788" sdnum="1033;"><font color="#000000">4788</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000">bag, notepad/pen, stress ball, mug</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Badges and Lanyards</font></td>
+		<td align="right" valign=bottom sdval="2" sdnum="1033;"><font color="#000000">2</font></td>
+		<td align="right" valign=bottom sdval="280" sdnum="1033;"><font color="#000000">280</font></td>
+		<td align="right" valign=bottom sdval="560" sdnum="1033;"><font color="#000000">560</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="right" valign=bottom sdval="100" sdnum="1033;"><b><font color="#000000">100</font></b></td>
+		<td align="right" valign=bottom sdval="150" sdnum="1033;"><b><font color="#000000">150</font></b></td>
+		<td align="right" valign=bottom sdval="200" sdnum="1033;"><b><font color="#000000">200</font></b></td>
+		<td align="right" valign=bottom sdval="250" sdnum="1033;"><b><font color="#000000">250</font></b></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><b><font color="#000000">TOTAL MAIN</font></b></td>
+		<td align="right" valign=bottom sdval="76258" sdnum="1033;"><font color="#000000">76258</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="right" valign=bottom sdval="762.58" sdnum="1033;"><font color="#000000">762.58</font></td>
+		<td align="right" valign=bottom sdval="508.386666666667" sdnum="1033;"><font color="#000000">508.3866666667</font></td>
+		<td align="right" valign=bottom sdval="381.29" sdnum="1033;"><font color="#000000">381.29</font></td>
+		<td align="right" valign=bottom sdval="305.032" sdnum="1033;"><font color="#000000">305.032</font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><b><font color="#000000">TOTAL WORKSHOP PER DAY</font></b></td>
+		<td align="right" valign=bottom sdval="8360" sdnum="1033;"><font color="#000000">8360</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="right" valign=bottom sdval="83.6" sdnum="1033;"><font color="#000000">83.6</font></td>
+		<td align="right" valign=bottom sdval="55.7333333333333" sdnum="1033;"><font color="#000000">55.7333333333</font></td>
+		<td align="right" valign=bottom sdval="41.8" sdnum="1033;"><font color="#000000">41.8</font></td>
+		<td align="right" valign=bottom sdval="33.44" sdnum="1033;"><font color="#000000">33.44</font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><b><font color="#000000">TOTAL BANQUET</font></b></td>
+		<td align="right" valign=bottom sdval="21400" sdnum="1033;"><font color="#000000">21400</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="right" valign=bottom sdval="214" sdnum="1033;"><font color="#000000">214</font></td>
+		<td align="right" valign=bottom sdval="142.666666666667" sdnum="1033;"><font color="#000000">142.6666666667</font></td>
+		<td align="right" valign=bottom sdval="107" sdnum="1033;"><font color="#000000">107</font></td>
+		<td align="right" valign=bottom sdval="85.6" sdnum="1033;"><font color="#000000">85.6</font></td>
+	</tr>
+	<tr>
+		<td style="border-bottom: 1px solid #000000" height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000; border-bottom: 1px solid #000000; border-left: 1px solid #000000; border-right: 1px solid #000000" height="17" align="left" valign=bottom><b><font color="#000000">SPONSORSHIPS</font></b></td>
+		<td style="border-left: 1px solid #000000" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td style="border-top: 1px solid #000000" height="17" align="left" valign=bottom><font color="#000000">UoM Provost</font></td>
+		<td align="right" valign=bottom sdval="7750" sdnum="1033;"><font color="#000000">7750</font></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><font color="#000000">1</font></td>
+		<td align="right" valign=bottom sdval="7750" sdnum="1033;"><font color="#000000">7750</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">IIS</font></td>
+		<td align="right" valign=bottom bgcolor="#FFE599" sdval="5000" sdnum="1033;"><font color="#000000">5000</font></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><font color="#000000">1</font></td>
+		<td align="right" valign=bottom sdval="5000" sdnum="1033;"><font color="#000000">5000</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000">Per attendee costs for given attendance scenarios</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">CPO free room</font></td>
+		<td align="right" valign=bottom sdval="129" sdnum="1033;"><font color="#000000">129</font></td>
+		<td align="right" valign=bottom sdval="3" sdnum="1033;"><font color="#000000">3</font></td>
+		<td align="right" valign=bottom sdval="387" sdnum="1033;"><font color="#000000">387</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="right" valign=bottom sdval="100" sdnum="1033;"><b><font color="#000000">100</font></b></td>
+		<td align="right" valign=bottom sdval="150" sdnum="1033;"><b><font color="#000000">150</font></b></td>
+		<td align="right" valign=bottom sdval="200" sdnum="1033;"><b><font color="#000000">200</font></b></td>
+		<td align="right" valign=bottom sdval="250" sdnum="1033;"><b><font color="#000000">250</font></b></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000">Stamper Misc</font></td>
+		<td align="right" valign=bottom sdval="12000" sdnum="1033;"><font color="#000000">12000</font></td>
+		<td align="right" valign=bottom sdval="1" sdnum="1033;"><font color="#000000">1</font></td>
+		<td align="right" valign=bottom sdval="12000" sdnum="1033;"><font color="#000000">12000</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><b><font color="#000000">TOTAL</font></b></td>
+		<td align="right" valign=bottom sdval="25137" sdnum="1033;"><font color="#000000">25137</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="right" valign=bottom sdval="251.37" sdnum="1033;"><font color="#000000">251.37</font></td>
+		<td align="right" valign=bottom sdval="167.58" sdnum="1033;"><font color="#000000">167.58</font></td>
+		<td align="right" valign=bottom sdval="125.685" sdnum="1033;"><font color="#000000">125.685</font></td>
+		<td align="right" valign=bottom sdval="100.548" sdnum="1033;"><font color="#000000">100.548</font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><b><font color="#000000">TOTAL PROJECTED COSTS</font></b></td>
+		<td align="right" valign=bottom sdval="100" sdnum="1033;"><b><font color="#000000">100</font></b></td>
+		<td align="right" valign=bottom sdval="150" sdnum="1033;"><b><font color="#000000">150</font></b></td>
+		<td align="right" valign=bottom sdval="200" sdnum="1033;"><b><font color="#000000">200</font></b></td>
+		<td align="right" valign=bottom sdval="250" sdnum="1033;"><b><font color="#000000">250</font></b></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="right" valign=bottom sdval="899.92" sdnum="1033;"><font color="#000000">899.92</font></td>
+		<td align="right" valign=bottom sdval="599.946666666667" sdnum="1033;"><font color="#000000">599.9466666667</font></td>
+		<td align="right" valign=bottom sdval="449.96" sdnum="1033;"><font color="#000000">449.96</font></td>
+		<td align="right" valign=bottom sdval="359.968" sdnum="1033;"><font color="#000000">359.968</font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="right" valign=bottom sdval="184606" sdnum="1033;"><font color="#000000">184606</font></td>
+		<td align="left" valign=bottom><font color="#000000">with banquet incl</font></td>
+		<td align="right" valign=bottom sdval="1238.92" sdnum="1033;"><font color="#000000">1238.92</font></td>
+		<td align="right" valign=bottom sdval="825.946666666667" sdnum="1033;"><font color="#000000">825.9466666667</font></td>
+		<td align="right" valign=bottom sdval="619.46" sdnum="1033;"><font color="#000000">619.46</font></td>
+		<td align="right" valign=bottom sdval="495.568" sdnum="1033;"><font color="#000000">495.568</font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><b><font color="#000000">Suggested Pricing</font></b></td>
+		<td align="left" valign=bottom><b><font color="#000000">Assume 200 attend</font></b></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000">Member Early Regular</font></td>
+		<td align="right" valign=bottom sdval="550" sdnum="1033;"><font color="#000000">550</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000">Student Early Regular</font></td>
+		<td align="right" valign=bottom sdval="350" sdnum="1033;"><font color="#000000">350</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000">Member Late Regular</font></td>
+		<td align="right" valign=bottom sdval="650" sdnum="1033;"><font color="#000000">650</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000">Student Late Regular</font></td>
+		<td align="right" valign=bottom sdval="550" sdnum="1033;"><font color="#000000">550</font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000">Workshop Days (each, for all attendees)</font></td>
+		<td align="right" valign=bottom sdval="100" sdnum="1033;"><font color="#000000">100</font></td>
+		<td align="left" valign=bottom><font color="#000000">workshop only registration will cover the additional cost of registration</font></td>
+	</tr>
+	<tr>
+		<td height="17" align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000"><br></font></td>
+		<td align="left" valign=bottom><font color="#000000">Banquet (included in registration, but if a la carte)</font></td>
+		<td align="right" valign=bottom sdval="85" sdnum="1033;"><font color="#000000">85</font></td>
+		<td align="left" valign=bottom><font color="#000000">note: less than real cost, but if is included in registration then should be fine</font></td>
+	</tr>
+</table>
 
 * Recruit sponsors
 * Create a working budget
