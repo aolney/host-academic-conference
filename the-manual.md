@@ -203,6 +203,7 @@ When you create/assign roles, consider:
 
 Sometimes if a job is really small (making signs) it may not make sense to create a chair for it. 
 
+
 ## Task By Task
 
 This section enumerates various tasks and goes into some detail.
@@ -218,6 +219,30 @@ Often if you negotiate a block of rooms you can get a reduced rate and possibly 
 ### Catering
 
 An initial conversation with catering at the conference location is a good idea. You will want to provide multiple options for food. Minimally you need a "traditional" option and an "alternative" option. The alternative option should be vegan if possible. If you can't provide gluten free or kosher, you may want to indicate that on your website/registration site. Also be mindful of alergies, especially peanut and shellfish allergies. All food should have signage during the confernce reflecting these issues, and during registration participants should be able to elect a food preference (also to be considered for the banquet).
+
+### Visa letters
+
+Folks from other countries will sometimes need visa letters to attend the conference. I recommend not issuing letters unless someone has registered and paid for the conference. It may be that they will need to know if their paper is accepted in order to start the visa process. For such people it is important to run an efficient review process that leaves plenty of time for them to do their paperwork.
+
+Visa letters typically stipulate the name, date, etc, of the conference. Here is an example that I used:
+
+```
+On behalf of the conference organizers, I would like to invite you to attend the 16th
+International Conference on Artificial Intelligence in Education (AIED 2013), which
+will be held at the FedEx Institute of Technology (FIT) at the University of Memphis,
+Tennessee on July 9th to July 13th, 2013 (http://aied2013.memphis.edu).
+
+The conference provides opportunities for the cross-fertilization of approaches, tech-
+niques and ideas from the many fields that comprise AIED, including computer sci-
+ence, cognitive and learning sciences, education, game design, psychology, sociology,
+linguistics, as well as many domain-specific areas.
+
+Do not hesitate to contact me should you have any further questions.
+
+I look forward to seeing you at the conference.
+
+Yours sincerely,
+```
 
 ### Sponsors
 
@@ -282,7 +307,7 @@ Bronze Level - $2,500 Includes:
 
 Your budget will be an evolving document, but you can create a reasonable sketch up front. The trick is to divide your costs into **per customer** and **per block** costs. Per block costs can also be thought of as "fixed" costs, but in reality the costs are only "fixed" up to some limit. For example, your location may charge a "fixed" cost for a certain number of meeting rooms, but you can only put 400 people in those rooms.
 
-I've put the AIED2013 budget here TODO with formulas, etc. It is inline below for the sake of discussion.
+I've put the AIED2013 budget [here](example-files\AIED 2013 -- Working budget.xlsx) with formulas, etc. It is inline below for the sake of discussion.
 
 <table cellspacing="0" border="0">
 	<colgroup width="127"></colgroup>
@@ -985,6 +1010,55 @@ I've put the AIED2013 budget here TODO with formulas, etc. It is inline below fo
 	</tr>
 </table>
 
+One of the most useful things you can do with a budget like this is calculate "break-even" scenarios. That lets you look at how many registrants you need to break even at a certain registration price.
+
+Some thoughts on this:
+* It is customary to give an honorarium, free registration, and travel expenses to keynotes
+* It is customary to comp volunteers and the Executive Committee
+* Students usually pay a reduced rate. That money comes from up-charging faculty
+* If you make the banquet included, you can spread the price to everyone
+* To make workshops attractive, you might want to offer them "at cost" to regular registrants
+
+### Spending/receiving funds
+
+You may be constrained by your University's policies in this. I found working within my own University's framework to be very challenging. What I would suggest is that you look at something like [Paypal Here](https://www.paypal.com/webapps/mpp/credit-card-reader) which would allow you to take online payments tied to your registration system as well as onsite payments during the conference. It also gives you a linked debit card that can be used for making conference purchases. **Under no circumstances ever mix conference and non-conference (personal) money in the same account**.
+
+To make the initial reservations, you may need a "float" loan from your professional society.
+
+### Recruiting the Program Committee
+
+These should be people who are known for good and timely reviews. Many people will review for the same conference every year, so using last year's PC to make invitations for your conference is a good idea. As before, consider underrepresented groups and diversity when inviting the PC.
+
+### Publishing the proceedings
+
+If the proceedings are regularly published, then there should be an existing relationship with a publisher. It is typically easier to continue that, as they will already have some paperwork to get you started. With issues like this, which are typically handled by the Program Chair, it is important to have clear communications with the Local Organizer who is maintaining the budget.
+
+The number of proceedings needed will be an estimate based on previous attendance and the accepted papers. Inevitably if you go this route you will end up with a number of "extra" proceedings that wasted money.
+
+An alternative to using a publisher is to self-publish. To do this you need to buy an ISBN. [Reputable organizations](http://www.educationaldatamining.org/EDM2013/proceedings/EDM2013Proceedings.pdf) are self-publishing proceedings. It saves a ton of money and makes it easy to distribute (people can download off the website instead of having to use a $40 usb key the publisher sold you).
+
+
+### Early
+
+Early on, people need to do necessary planning to attend your conference. To book travel, hotel, get visas, etc, they need to know when/where it is. You also want to consider making your conference attractive.
+
+Behind the scenes, you need to make sure you have assets like the conference location in place. If you don't book them, they may not be available for your conference dates. To book, you'll need to put down deposits. This means that you need to have some money up front, some way of spending funds (like a bank account), and the beginnings of a budget.
+
+To book anything you'll need an approximate head count. The best way to get that is to ask the previous conference organizers. Sometimes the previous proceedings will have a forward that lists the submissions and accepted papers. The number of attendees will be greater than the number of accepted papers.
+
+#### Things for the site
+
+* Location of the conference, booked (i.e. the actual building)
+* Dates of the conference (distinguish workshop days from main conference; give date of banquet)
+* How to get to the conference (airports, taxi, public transportation, etc)
+* Where to stay/sleep at night (easy if the conference is in a hotel, you may want to book/reserve rooms)
+* Where to eat (what food will the conference provide? Off site food? Consider special diets like vegetarian)
+* Things to do besides the conference (some people will add a day on either side of the conference for this)
+* How to request a visa letter
+* Custom logo that will appear on site and elsewhere
+
+#### Behind the scenes
+
 * Recruit sponsors
 * Create a working budget
 * Determine how to spend/receive funds (may need a "float" loan from professional society)
@@ -994,3 +1068,65 @@ I've put the AIED2013 budget here TODO with formulas, etc. It is inline below fo
 * Invite keynote speakers, put them on the website as soon as you can
 * Recruit Program Committee and any needed Conference Executive Committee
 * Have agreement with publisher if applicable on conference proceedings
+  
+  
+### Middle
+
+It's easy to get complacent once you have a site. However, you should not lose track of the important fact **most people need to be reminded to look at it**, so if it changes in a major you need to send an annoucement by email.
+
+The major additions at this stage are the submission/reviewing process and registration. You would be amazed how early some people submit and register. You want people to register as early as possible because you will need head counts for food and other items. So encoraging people to register early is a good idea (early/late/onsite rates can help).
+
+#### Things for the site
+
+* Call for papers (must also email!)
+* Instructions for authors/templates
+* Submission website to conduct review process (e.g. EasyChair)
+* Call for worshops/tutorials/demonstrations (must also email)
+* Important dates (due dates for papers/proposals; acceptance dates for the same)
+* Personnel (like the Program Committee and the Conference Executive Comittee)
+* Registration
+ 
+#### Behind the scenes
+
+* Solicit volunteers (may be tied to accepted papers)
+* Purchase presentation equipment (posterboards, easels, powercords, etc)
+* Purchase conference bag/schwag -- may take time to print with custom logo
+* 
+
+### Late (but not too late!)
+
+At this stage, people will want to know when they are presenting. If they volunteered to be a session chair, they will want to know where you assigned them.
+
+#### Things for the site
+
+* Conference schedule (times for presentations, session chairs, breaks, meals, etc)
+* Presenter instructions (also email with acceptance)
+
+#### Behind the scenes
+
+* Attendee badges (requires head count; I like badges with integrated schedules)
+* Make sure all volunteers know where to go/what to do/when they are needed
+* Rent/order equipment (microphones, projectors, etc)
+* Arrange group transport to banquet if applicable (requires head count)
+* Finalized food for conference (requires head count)
+* Create signage so people know where to go; signage for sponsors
+* Prepare welcome/introduction presentations for conference
+  
+### During
+
+During the conference, people will come in at widely different times. They will not know exactly where to go, what talks are happening now, where to register, or how to check their email.
+
+People will not remember **anything** about their registration. They will not remember if they ordered extra proceedings, bought a banquet ticket, or paid with credit card. You must have excellent record keeping. 
+
+Important tasks are:
+* Place adequate signage and have volunteers to give directions
+* Run the registration desk
+ * Hand out badges, proceedings, schwag
+ * Be prepared for "on-site" registration
+ * Be prepared for "add-on" registration
+ * Be prepared to take payments on site
+* Have a contact facilty so people can come to you with problems
+* Provide and **communicate** WiFi access
+* Provide a "lost and found"
+* Make sure session chairs know their jobs (where to go, how to keep time, how to handle questions)
+* Be prepared to put out fires
