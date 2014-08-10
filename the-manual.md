@@ -204,3 +204,86 @@ When you create/assign roles, consider:
 Sometimes if a job is really small (making signs) it may not make sense to create a chair for it. 
 
 ## Task By Task
+
+This section enumerates various tasks and goes into some detail.
+
+### Conference location
+
+This may be highly influence by economic considerations. For example, you may be using University space at a reduced rate. However you should consider issues like distance to the nearest hotel/accomodations, ability to provide food, etc.
+
+### Conference hotels
+
+Often if you negotiate a block of rooms you can get a reduced rate and possibly free rooms for your keynote speakers. The disadvantage is that if you don't cancel extra rooms in the block by a certain time, you can end up paying for rooms you don't use.
+
+### Catering
+
+An initial conversation with catering at the conference location is a good idea. You will want to provide multiple options for food. Minimally you need a "traditional" option and an "alternative" option. The alternative option should be vegan if possible. If you can't provide gluten free or kosher, you may want to indicate that on your website/registration site. Also be mindful of alergies, especially peanut and shellfish allergies. All food should have signage during the confernce reflecting these issues, and during registration participants should be able to elect a food preference (also to be considered for the banquet).
+
+### Sponsors
+
+Sponsors can help out a lot with the banquet and keynotes. Commonly the Sponsorship Chair is someone with industry connections. **It is essential that you have clear infrastructure in place to accept payments from sponsors and that you communicate this clearly to sponsors**. I had some sponsors who made commitments they never kept; be wary.
+
+Here is an example document that could be sent to sponsors to communicate sponsorship options:
+
+AIED 2013 Sponsorship Opportunities
+The 16th International Conference on Artificial Intelligence in Education (AIED2013) follows a
+longstanding series of biennial international conferences for high quality research in intelligent systems
+and cognitive science for educational computing applications. The conference provides opportunities for
+the cross-fertilization of approaches, techniques and ideas from the many fields that comprise AIED,
+including computer science, cognitive and learning sciences, education, game design, psychology,
+sociology, linguistics, as well as many domain-specific areas. The theme of AIED2013 is: From
+education to lifelong learning: constructing pervasive and enduring environments for learning. In line
+with this theme of expansion, AIED2013 will also introduce a new category for Industry Papers which
+will seek to capture the challenges, solutions, and results from the transition of AIED technologies into
+the commercial sector.
+
+To assist you, we are offering four levels of corporate sponsorship at AIED 2013. Platinum, Gold
+and Silver sponsorship levels provide an exceptional opportunity for recognition of your support and
+interest in the educational data community. Each of these premium levels allows you to host a specific
+conference event of your choosing with recognition for your organization at that event. In addition, all
+sponsors will also be invited to attend a special recruiting reception for corporate sponsors to meet with
+potential graduate students, post doctoral students and others seeking corporate positions in the field.
+To reserve your sponsorship AIED 2013 or for any questions, email or call John Stamper
+(xxx@xxxx.org 1-412-268-9690) with the level and event that you would like to sponsor.
+
+**Platinum Level** - $20,000 Supports your choice of available events. One of a Doctoral Consortium,
+Banquet Dinner, or Opening Reception. Includes:
+• Opportunity to address conference audience during conference opening
+• Access to special recruiting event
+• Table at Poster Session
+• Opportunity to include media in registration materials
+• Recognition at the sponsored event
+• Recognition in program and proceedings
+• Up to 4 complimentary conference registrations
+
+**Gold Level** - $10,000 Supports your choice of available events. One of a Keynote Address or Lunch
+Includes:
+• Access to special recruiting event
+• Table at Poster Session
+• Opportunity to include media in registration materials
+• Recognition at the sponsored event
+• Recognition in program and proceedings
+• Up to 3 complimentary conference registrations
+
+**Silver Level** - $5,000 Supports your choice of Breakfast or Snack Break
+Includes:
+• Access to special recruiting event
+• Opportunity to include media in registration materials
+• Recognition at the sponsored event
+• Recognition in program and proceedings
+• 2 complimentary conference registration
+
+**Bronze Level** - $2,500 Includes:
+• Opportunity to include media in registration
+
+#### Behind the scenes
+
+* Recruit sponsors
+* Create a working budget
+* Determine how to spend/receive funds (may need a "float" loan from professional society)
+* Book the banquet location
+* Book the hotels if applicable
+* Book the conference location
+* Invite keynote speakers, put them on the website as soon as you can
+* Recruit Program Committee and any needed Conference Executive Committee
+* Have agreement with publisher if applicable on conference proceedings
