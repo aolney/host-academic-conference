@@ -1,7 +1,7 @@
 Table of Contents
 ========================
 
-[Overview](#Overview)
+**[Installation Instructions](#installation-instructions)**  
 
 bye
 
@@ -82,8 +82,6 @@ bye
 
 
 
-<a id='Overview'></a>
-
-## Overview
+## Installation instructions
 
 hello
