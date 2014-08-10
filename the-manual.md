@@ -1,7 +1,3 @@
----
-title: the-manual
----
-
 Table of Contents
 ========================
 
