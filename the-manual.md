@@ -1,3 +1,25 @@
+host-academic-conference
+========================
+
+An evolving document on how to host an academic conference
+
+## Disclaimer
+
+This document reflects my experience with hosting *only* two academic conferences. 
+
+
+## What can you do with it?
+
+* [Read it!](#overview) The source file is *the-manual.md* ; see also the [website](http://aolney.github.io/host-academic-conference/)
+* Ask questions or suggest *minor* changes using [*issues*](https://github.com/aolney/host-academic-conference/issues)
+* Make major changes by
+  * Getting you own [GitHub account](http://github.com)
+  * Forking this repository
+  * Making changes to it (i.e. *commits*) using appropriate [markdown](https://help.github.com/articles/writing-on-github)
+  * If you think your major change should be incorporated here, you can submit a *pull request*; see [here](https://help.github.com/articles/using-pull-requests) for more information
+
+
+
 Table of Contents
 ========================
 
@@ -1037,9 +1059,9 @@ The number of proceedings needed will be an estimate based on previous attendanc
 
 An alternative to using a publisher is to self-publish. To do this you need to buy an ISBN. [Reputable organizations](http://www.educationaldatamining.org/EDM2013/proceedings/EDM2013Proceedings.pdf) are self-publishing proceedings. It saves a ton of money and makes it easy to distribute (people can download off the website instead of having to use a $40 usb key the publisher sold you).
 
-### Call for papers
+### Call for papers/workshops
 
-This should follow the format of previous conferences. In it you can express the themes of your conference. The example below doesn't include submission instructions, but ideally the CFP will include instructions for authors and submission instructions.
+This should follow the format of previous conferences. In it you can express the themes of your conference. The example below doesn't include submission instructions, but ideally the CFP will include instructions for authors and submission instructions. I strongly recommend having templates for submissions to help people with the formatting. You should also be very clear as to whether submissions should be anonymized or not.
 
 ```
 The 16th International Conference on Artificial Intelligence in Education (AIED2013) is the next in a longstanding series of biennial international conferences for high quality research in intelligent systems and cognitive science for educational computing applications. The conference provides opportunities for the cross-fertilization of approaches, techniques and ideas from the many fields that comprise AIED, including computer science, cognitive and learning sciences, education, game design, psychology, sociology, linguistics, as well as many domain-specific areas. Since the first AIED meeting 30 years ago, both the breadth of the research and the reach of the technologies have expanded in dramatic ways. The theme of AIED2013 therefore seeks to capture this evolution: From education to lifelong learning: constructing pervasive and enduring environments for learning. In line with this theme of expansion, AIED2013 will welcome the Industry & Innovation Track which seeks to capture the challenges, solutions, and results from the transition of AIED technologies into the commercial sector.
@@ -1099,16 +1121,210 @@ CONFERENCE ORGANISATION
     Local Arrangements Chair: Andrew Olney & Phil Pavlik
 ```
 
-# TODO: stopped here
+Here are the example submission instructions that for AIED2013 were separate from the call (I recommend considering combining them:
 
-* Call for papers (must also email!)
-* Instructions for authors/templates
-* Submission website to conduct review process (e.g. EasyChair)
-* Call for worshops/tutorials/demonstrations (must also email)
-* Important dates (due dates for papers/proposals; acceptance dates for the same)
-* Personnel (like the Program Committee and the Conference Executive Comittee)
-* Registration
+```
+Submission instructions for AIED2013
  
+Thank you for your interest in submitting a paper to AIED2013. The following steps will be helpful in preparing and submitting your paper on time.
+ 
+Step 1. Decide which category of paper you would like to submit, and make a note of the due date and page limits. The submission dates are always available on the Important Dates page. Page limits are provided in the Call For Papers, but repeated here for convenience:
+
+    Full papers (10 pages)
+    Posters (4 pages)
+    Doctoral consortium (4 pages)
+    Industry & Innovation short papers (4 pages)
+    Interactive events (1-2 pages)
+    Workshop proposals (2-4 pages)
+    Tutorial proposals (2-4 pages)  
+
+Please note: if you wish to submit a full paper to the Industry & Innovation track, it is due at the full paper deadline. 
+ 
+Step 2. If you are submitting a full, poster, DC, or I&I short paper, then you need to use the Springer conference proceedings template (Word2007, LaTeX2e) for your submission. Papers not in this format, that are overlength, or include modifications to the template will be returned.
+
+    Should you need it, you can find more information at the Springer Author information page.
+    If you are submitting an IE, Workshop, or Tutorial proposal, please refer to those CFPs. A plain word or text document is sufficient for these. 
+
+ 
+Step 3. Submit your paper, IE, workshop, or tutorial as a pdf through the AIED2013 Easychair site.
+
+    Make sure that you select the proper category during your submission.
+    You will receive an immediate confirmation email that your paper was uploaded properly – if you do not receive a confirmation email, double check in easychair that it was properly uploaded. 
+
+ 
+ 
+We will contact you directly if there are problems with your submission. Please check the AIED2013 website for updates – if reviewing is delayed or other unanticipated events arise, we will update the timeline appropriately. 
+```
+
+You'll notice that [EasyChair](http://www.easychair.org/) was mentioned. It's a great system for handling the reviewing process. You can use it for paper submissions and other types of submissions (like workshops).
+
+Other kinds of calls generally have the same kind of format as the above. The best thing to do is to look at previous conference calls. Here's an example of another kind of call, a call for workshops:
+
+```
+AIED2013 workshops are designed to provide an opportunity for in-depth discussion of current and emerging topics of interest to the AIED community. We encourage workshop proposals that bring together people working on new and developing research topics that favor highly interactive discussions. Those proposing a workshop should provide information that the workshop is of interest to the AIED community, and why a workshop on this topic is beneficial. Workshop organizers and participants are also expected to attend the main AIED conference.
+
+Proposal requirements and format (2-4 pages total length for proposal):
+
+    Title 
+    Length of workshop: full or half-day 
+    Detailed description of the workshop topic’s importance to AIED community 
+    Description of the workshop content and themes 
+    Names, short biographies, and contact information of workshop chair(s) 
+    List of program committee members. To ensure a workshop is of interest to the broader AIED community, members should be from multiple universities. 
+    Proposed format of the workshop (e.g., approximate timeline) and type of activities (e.g., paper presentations, discussions, demos, etc.) 
+    Please indicate any potential solicitation plans for workshop funding from sources, such as international projects, research networks, or industry. (External funding is not required for acceptance.)
+
+Important dates:
+
+    Workshop proposal submission: February 4, 2013
+    Workshop decisions: March 4, 2013
+    Workshop paper submissions: April 12, 2013
+    Workshop camera-ready copy due: TBA
+    Workshops: July 9 and July 13, 2013
+
+Workshop publications:
+
+Approved workshops will have a locally printed proceedings independent from the main conference. They will also have a one-page summary in the main conference proceedings.
+
+Submission information:
+
+Submission will be through EasyChair via the main conference website: http://aied2013.memphis.edu. Further questions should be directed to the AIED2013 workshop and tutorial chairs, Chee Kit Looi (xxxx@xxx) and Erin Walker (xxxx@xxx).
+```
+
+### Important dates
+
+Be as clear with important dates as possible and try to give them to people as far in advance as possible. Remember that the notification of acceptance is often the trigger for registration, travel arrangements, and visa application, so make this as far in advance of the conference as you can. Also remember that sometimes rejected conference papers get turned into workshop submissions, so people need to have a sufficient gap betweeen conference rejection and workshop submission to make that work.
+
+Here's an example table of important dates from AIED2013. I'm not claiming it is perfect with regard to the above considerations:
+
+<table class="goog-ws-list-header" cellspacing="0">
+<tbody><tr>
+<th xmlns="http://www.w3.org/1999/xhtml" width="33%">Date</th><th xmlns="http://www.w3.org/1999/xhtml" width="33%">Event</th><th xmlns="http://www.w3.org/1999/xhtml" width="33%">Category</th>
+</tr>
+<tr id="goog-ws-list-sort-row" class="goog-ws-list-sort-row">
+<td xmlns="http://www.w3.org/1999/xhtml"><a class="sites-list-sort-button" href="javascript:;" id="sort_45677222893573344"><div class="sites-list-sortlabel-grey">Sort&nbsp;</div><div class="sites-list-sort-arrow goog-toolbar-menu-button-dropdown">&nbsp;</div></a></td><td xmlns="http://www.w3.org/1999/xhtml"><a class="sites-list-sort-button" href="javascript:;" id="sort_001321213087067008"><div class="sites-list-sortlabel-grey">Sort&nbsp;</div><div class="sites-list-sort-arrow goog-toolbar-menu-button-dropdown">&nbsp;</div></a></td><td xmlns="http://www.w3.org/1999/xhtml"><a class="sites-list-sort-button" href="javascript:;" id="sort_2806610169354826"><div class="sites-list-sortlabel-grey">Sort&nbsp;</div><div class="sites-list-sort-arrow goog-toolbar-menu-button-dropdown">&nbsp;</div></a></td>
+</tr>
+</tbody></table>
+</div>
+<table id="goog-ws-list-table" class="sites-table goog-ws-list-table">
+<tbody>
+<tr xmlns="http://www.w3.org/1999/xhtml" id="sites-list-tr-placeholder"><th width="33%"></th><th width="33%"></th><th width="33%"></th></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:212115bdf8560b90" class="goog-ws-list-tableRow"><td width="33%">January 28, 2013&nbsp;</td><td dir="ltr" width="33%">Full Papers, Posters submission due&nbsp;</td><td dir="ltr" width="33%">Main Conference Track&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:746ecc217ac7afd6" class="goog-ws-list-tableRow"><td width="33%">January 28, 2013&nbsp;</td><td dir="ltr" width="33%">Industry and Innovation full submission due&nbsp;</td><td dir="ltr" width="33%">Industry and Innovation&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:5c8103a45c80a996" class="goog-ws-list-tableRow"><td width="33%">February 4, 2013&nbsp;</td><td dir="ltr" width="33%">Workshops and Tutorials submission due&nbsp;</td><td dir="ltr" width="33%">Workshops and Tutorials&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:637f4f3601fc94ca" class="goog-ws-list-tableRow"><td width="33%">February 4, 2013&nbsp;</td><td dir="ltr" width="33%">Interactive Events submission due&nbsp;</td><td dir="ltr" width="33%">Interactive Events&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:65ec4a95e6133f84" class="goog-ws-list-tableRow"><td width="33%">February 18, 2013&nbsp;</td><td dir="ltr" width="33%">Doctoral Consortium Track submission due&nbsp;</td><td dir="ltr" width="33%">Doctoral Consortium Track&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:15f2f2edb109a07e" class="goog-ws-list-tableRow"><td width="33%">March 4, 2013&nbsp;</td><td dir="ltr" width="33%">Workshop decisions&nbsp;</td><td dir="ltr" width="33%">Workshops and Tutorials&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:54d880d5f4363869" class="goog-ws-list-tableRow"><td width="33%">March 15, 2013&nbsp;</td><td dir="ltr" width="33%">Tutorial decisions&nbsp;</td><td dir="ltr" width="33%">Workshops and Tutorials&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:7d2973d2d2651fe8" class="goog-ws-list-tableRow"><td width="33%">March 15, 2013&nbsp;</td><td dir="ltr" width="33%">Industry and Innovation late-breaking submission due&nbsp;</td><td dir="ltr" width="33%">Industry and Innovation&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:5e5b09a6e6d224b2" class="goog-ws-list-tableRow"><td width="33%">March 17, 2013&nbsp;</td><td dir="ltr" width="33%">Paper decisions&nbsp;</td><td dir="ltr" width="33%">Main Conference Track&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:35dd078b7865f5af" class="goog-ws-list-tableRow"><td width="33%">April 11, 2013&nbsp;</td><td dir="ltr" width="33%">Camera ready deadline&nbsp;</td><td dir="ltr" width="33%">All Proceedings Tracks&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:666a00b244bf80ef" class="goog-ws-list-tableRow"><td width="33%">May 31, 2013&nbsp;</td><td dir="ltr" width="33%">Early registration ends&nbsp;</td><td dir="ltr" width="33%">Main conference track&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:5dde734c27cc44c" class="goog-ws-list-tableRow"><td width="33%">July 9, 2013&nbsp;</td><td dir="ltr" width="33%">Shared workshop/tutorial day with EDM&nbsp;</td><td dir="ltr" width="33%">Conference Dates&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:1595264ae00b67c8" class="goog-ws-list-tableRow"><td width="33%">July 10, 2013&nbsp;</td><td dir="ltr" width="33%">Main AIED conference&nbsp;</td><td dir="ltr" width="33%">Conference Dates&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:7b6a40b504fa67b0" class="goog-ws-list-tableRow"><td width="33%">July 11, 2013&nbsp;</td><td dir="ltr" width="33%">AIED Banquet&nbsp;</td><td dir="ltr" width="33%">Conference Dates&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:7eb044489c370d6f" class="goog-ws-list-tableRow"><td width="33%">July 11, 2013&nbsp;</td><td dir="ltr" width="33%">Main AIED conference&nbsp;</td><td dir="ltr" width="33%">Conference Dates&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:576c96f382443670" class="goog-ws-list-tableRow"><td width="33%">July 12, 2013&nbsp;</td><td dir="ltr" width="33%">Main AIED conference&nbsp;</td><td dir="ltr" width="33%">Conference Dates&nbsp;</td></tr><tr xmlns="http://www.w3.org/1999/xhtml" id="wuid:gx:7ee09fc3bdea0634" class="goog-ws-list-tableRow"><td width="33%">July 13, 2013&nbsp;</td><td dir="ltr" width="33%">Workshop/Tutorial day&nbsp;</td><td dir="ltr" width="33%">Conference Dates&nbsp;</td></tr>
+</tbody>
+</table>
+
+### Registration
+
+Registration is a tricky one. Unfortunately I'm probably not going to remember everything important here. Here's a list of requirements:
+
+Be able to
+* Take credit card payment
+* Take wire transfer payment
+* Edit registration at a later date and add/remove items
+* Take full name, affiliation, address, contact info (name/affiliation will be used for badge)
+* Take food preferences/allergies
+* Allow cancellation according to policy (see below)
+* Allow a 3rd party to register a participant (e.g. secretary)
+* Have options for member/non-member, student/non-student if applicable
+
+Although I don't have access to the screens of the AIED2013 registration system anymore, here is one of my test receipts with "custom" questions:
+
+```
+Personal Information xx
+Registration ID:100026
+Email:aolney@memphis.edu
+First Name:Andrew
+Last Name:Olney
+Affiliation:University of Memphis
+Address:365 Innovation Drive
+City:Memphis
+Zip Code:38152
+Country:USA
+Phone:9016785008
+Question Summary
+(Please know we will do our best to accomodate your needs, but if we are unable, we will contact you prior to the conference.)
+Do you have any dietary restrictions or requirements?:Vegetarian (Non-vegan)
+Please list or describe your need below::I only eat pizza
+If you have a disability and may require accommodation in order to fully participate in this conference, please check here. You will be contacted by someone from our staff to discuss your specific accommodations needs.:No,
+Do you need a letter to obtain your visa to attend the conference?:No,
+Please select your appopriate registration category.:Non-member
+Do you need an additional guest ticket to the banquet? (1 included for attendee in registration):No,
+Does your guest have any special dietary restrictions or requirements for the banquet?:they only eat cannoli
+Would you like a paper copy of the proceedings?:No,
+Do you want to attend the workshops/tutorials for the conference on July 9th?:Yes - Regular,
+Do you want to attend the workshops/tutorials for the conference on July 13th?:Yes - Regular,
+Cart Summary
+Title
+	
+Item Description
+	
+Item Cost
+	
+Quantity
+	
+Item Total
+Please select your appopriate registration category.	Non-member	$650.00	1	$650.00
+Do you want to attend the workshops/tutorials for the conference on July 9th?	Yes - Regular	$75.00	1	$75.00
+Do you want to attend the workshops/tutorials for the conference on July 13th?	Yes - Regular	$75.00	1	$75.00
+Item Total: 	
+$800.00
+Discount Total: 	
+$800.00
+Tax: 	
+$0.00
+Total: 	
+$0.00
+||Hide
+
+```
+
+You also need to have this kind of information outside the registration system so people know about costs, etc, BEFORE they register. It's a good idea to have the "What does registration include" information in the confirmation email they receive after registering. The following information was on the AIED2013 website:
+
+```
+What does a registration include?
+
+    Access to all conference talks, poster sessions, and demo sessions
+    Proceedings USB
+    Full breakfast
+    Morning coffee break
+    Lunch
+    Afternoon coffee break
+    Reception
+    Banquet
+    WiFi
+    Nightly shuttles to restaurants
+
+Pricing 
+
+Basic registration
+
+    Regular Member 550
+    Student Member 350
+    Regular Non Member 650 (includes 2 year web membership in IAIED)
+    Student Non Member 425 (includes 2 year web membership in IAIED)
+    Workshop only 75 (Must also register for workshop day(s))
+    Late registration add $100, May 31st is the last day of early registration
+    Doctoral consortium registration is part of the main conference program
+
+Extras
+
+    Regular Workshop Day $75.00 per day
+    Student Workshop Day $50.00 per day
+    Extra Banquet Ticket $85 (1 banquet ticket is included in conference registration)
+    Paper Proceedings $50 (usb proceedings included in conference registration)
+
+Refund policy
+
+    More than 45 days in advance, 100%
+    More than 30 days in advance, 50%
+    More than 14 days in advance, 25%
+    Less than 14 days, 0%
+
+amounts are in US dollars 
+contact person for registration questions Andrew Olney (xxx@xxx)
+```
+ 
+## TODO : stopped here
+
 #### Behind the scenes
 
 * Solicit volunteers (may be tied to accepted papers)
