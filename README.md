@@ -12,7 +12,7 @@ This document reflects my experience with hosting *only* two academic conference
 What can you do with it?
 -----------------------
 
-* [Read it!](the-manual.md) The source file is *the-manual.md* ; see also the [website](http://aolney.github.io/host-academic-conference/)
+* [Read it!](https://github.com/aolney/host-academic-conference/blob/master/the-manual.md) The source file is *the-manual.md* ; see also the [website](http://aolney.github.io/host-academic-conference/)
 * Ask questions or suggest *minor* changes using [*issues*](https://github.com/aolney/host-academic-conference/issues)
 * Make major changes by
   * Getting you own [GitHub account](http://github.com)
